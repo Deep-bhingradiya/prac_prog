@@ -1,6 +1,7 @@
 #include<stdio.h>
 
-int numJewelsInStones(char* J, char* S) {
+int numJewelsInStones(char* J, char* S) 
+{
     
     int i, j;
     int count=0;
