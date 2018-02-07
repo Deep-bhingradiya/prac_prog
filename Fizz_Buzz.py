@@ -1,7 +1,7 @@
 class Solution:
     def fizzBuzz(self, n):
         """
-        :type n: int
+        :type n: int 
         :rtype: List[str]
         """
         ret = []
