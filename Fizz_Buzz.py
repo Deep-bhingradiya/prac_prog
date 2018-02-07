@@ -14,6 +14,6 @@ class Solution:
                 ret.append("Fizz")
             else:
                 ret.append(str(x))
-                
+                   
         return ret
         
