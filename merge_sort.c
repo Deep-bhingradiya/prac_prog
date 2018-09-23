@@ -68,6 +68,7 @@ int merge_sort(int *arr, int len)
 
 	}
 
+	return 0;
 }
 
 int merge(int *arr, int *left, int *right, int len)
@@ -109,5 +110,6 @@ int merge(int *arr, int *left, int *right, int len)
 		k++;
 	}
 
+	return 0;
 
 }
