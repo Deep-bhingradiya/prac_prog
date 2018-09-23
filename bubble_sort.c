@@ -27,7 +27,7 @@ int main()
 		}
 	}
 	
-    printf("\nSorted array \n");
+    	printf("\nSorted array \n");
 	for(i = 0; i < n; i++)
 	{   
 	    printf("%d ", arr[i]);
